@@ -6,7 +6,7 @@ Developed a multi-level GUI word search with Java Widgets and routing to three l
 
 Playing easy level:
 
-<img src="easy-sample.gf" width="650" height="550"/>
+<img src="easy-sample.gif" width="650" height="550"/>
 
 Winning easy level: 
 
@@ -22,4 +22,4 @@ Giving up for answers and difficult level:
 
 User guide and quit:
 
-<img src="userguide.gif" width="650" height="550"/>
+<img src="user-guide.gif" width="650" height="550"/>
