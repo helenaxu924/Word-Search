@@ -22,4 +22,4 @@ Giving up for answers and difficult level:
 
 User guide and quit:
 
-<img src="user-guide.gif" width="650" height="550"/>
+<img src="user-guide.gif" width="750" height="550"/>
